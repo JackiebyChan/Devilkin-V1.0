@@ -1,6 +1,9 @@
 #ifndef DEQUE_H_
 #define DEQUE_H_
 
+
+
+
 #include<iostream>
 
 template <typename T>
