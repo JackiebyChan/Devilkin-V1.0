@@ -2,7 +2,7 @@
 #define DEQUE_H_
 
 //this is just for test
-
+//this is other people changing
 
 #include<iostream>
 
@@ -85,7 +85,7 @@ public:
         }
         catch (...)
         {
-            std::cout << "ÔÚ catch(¡­) block ÖÐ, Å×³öµÄintÀàÐÍµÄÒì³£¶ÔÏó±»´¦Àí" << std::endl;
+            std::cout << "åœ¨ catch(â€¦) block ä¸­, æŠ›å‡ºçš„intç±»åž‹çš„å¼‚å¸¸å¯¹è±¡è¢«å¤„ç†" << std::endl;
         }
     }
 
